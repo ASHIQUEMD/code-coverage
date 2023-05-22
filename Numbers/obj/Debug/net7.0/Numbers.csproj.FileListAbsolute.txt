@@ -1,0 +1,12 @@
+C:\AzureFunctionsExtensions\UnitTestingCodeCoverage\Numbers\bin\Debug\net7.0\Numbers.deps.json
+C:\AzureFunctionsExtensions\UnitTestingCodeCoverage\Numbers\bin\Debug\net7.0\Numbers.dll
+C:\AzureFunctionsExtensions\UnitTestingCodeCoverage\Numbers\bin\Debug\net7.0\Numbers.pdb
+C:\AzureFunctionsExtensions\UnitTestingCodeCoverage\Numbers\obj\Debug\net7.0\Numbers.csproj.AssemblyReference.cache
+C:\AzureFunctionsExtensions\UnitTestingCodeCoverage\Numbers\obj\Debug\net7.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\AzureFunctionsExtensions\UnitTestingCodeCoverage\Numbers\obj\Debug\net7.0\Numbers.AssemblyInfoInputs.cache
+C:\AzureFunctionsExtensions\UnitTestingCodeCoverage\Numbers\obj\Debug\net7.0\Numbers.AssemblyInfo.cs
+C:\AzureFunctionsExtensions\UnitTestingCodeCoverage\Numbers\obj\Debug\net7.0\Numbers.csproj.CoreCompileInputs.cache
+C:\AzureFunctionsExtensions\UnitTestingCodeCoverage\Numbers\obj\Debug\net7.0\Numbers.dll
+C:\AzureFunctionsExtensions\UnitTestingCodeCoverage\Numbers\obj\Debug\net7.0\refint\Numbers.dll
+C:\AzureFunctionsExtensions\UnitTestingCodeCoverage\Numbers\obj\Debug\net7.0\Numbers.pdb
+C:\AzureFunctionsExtensions\UnitTestingCodeCoverage\Numbers\obj\Debug\net7.0\ref\Numbers.dll
